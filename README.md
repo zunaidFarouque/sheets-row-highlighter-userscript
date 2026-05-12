@@ -23,3 +23,9 @@ const CONFIG = {
     enableRow: true,  // Set to true or false
     enableCol: false  // Set to true or false
 };
+```
+
+## Credits & License
+
+* Core logic and original Chrome/Firefox extension created by [matsu7089](https://github.com/matsu7089).
+* Licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
